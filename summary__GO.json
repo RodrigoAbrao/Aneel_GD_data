@@ -1,8 +1,9 @@
 {
   "total_registros": 7977,
   "contagens": {
-    "MLPE_true": 765,
-    "MLPE_false": 4505,
-    "Rural": 2700
+    "MLPE_true": 765, #SISTEMA REGULAR
+    "MLPE_false": 4505, #SISTEMA COM NECESSIDADE DE RSD EXTERNO
+    "Rural": 2700 #SISTEMA RURAL COM POSSIBILIDADE DE SER RURAL, A NBR17193 EXIGINDO RSD NÃO APLICAVEL
   }
+
 }
